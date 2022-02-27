@@ -1,0 +1,7 @@
+msgbox "Massssss" "mmm" "kkkkkkkkk" """"""""""""""""jkjdjjdj" kkkkk" good job"
+msgbox "Good job"
+msgbox "Batatinha frita 123"
+msgbox "jogo com Violencia e boa"
+msgbox "Error Whats The Happpen"inscreava-se no meu canal se não Vocé Vai Vira um goomba"Hmmmmmmmmmmmmmmm Melebom Hamamamama"
+msgbox "Adeus"Godybe"
+msgBox "Saia da messagem em 9"8"7"6"5"4"3"2"1"
